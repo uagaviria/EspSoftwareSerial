@@ -1,11 +1,7 @@
-# EspSoftwareSerial
+EspSoftwareSerial
 
-Implementation of the Arduino software serial library for the ESP8266
+Implementación de la librería serial de software Arduino para el ESP8266
 
-Same functionality as the corresponding AVR library but several instances can be active at the same time.
-Speed up to 115200 baud is supported. The constructor also has an optional input buffer size.
+La misma funcionalidad que la biblioteca AVR correspondiente, pero varias instancias pueden estar activas al mismo tiempo. Se admite una velocidad de hasta 115200 baudios. El constructor también tiene un tamaño de búfer de entrada opcional.
 
-Please note that due to the fact that the ESP always have other activities ongoing, there will be some inexactness in interrupt
-timings. This may lead to bit errors when having heavy data traffic in high baud rates.
-
-
+Tenga en cuenta que debido al hecho de que el ESP siempre tiene otras actividades en curso, habrá alguna inexactitud en los tiempos de interrupción. Esto puede conducir a errores de bits cuando se tiene un tráfico de datos pesado en altas velocidades de transmisión.
