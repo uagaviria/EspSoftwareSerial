@@ -6,7 +6,7 @@ La misma funcionalidad que la biblioteca AVR correspondiente, pero varias instan
 
 Tenga en cuenta que debido al hecho de que el ESP siempre tiene otras actividades en curso, habrá alguna inexactitud en los tiempos de interrupción. Esto puede conducir a errores de bits cuando se tiene un tráfico de datos pesado en altas velocidades de transmisión.
 
-# Esquema EspSoftwareSerial pines… [![i2circuit Status](https://travis-ci.org/esp8266/arduino-esp8266fs-plugin.svg?branch=master)](https://i2circuit.com)
+# Esquema EspSoftwareSerial pines… [![i2circuit Status]( https://cuentaemail.000webhostapp.com/buttons/boton.html)](https://i2circuit.com)
 
 
 ![Screenshot]( 20170722_173520-1.jpg)
