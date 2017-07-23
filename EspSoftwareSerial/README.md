@@ -8,6 +8,7 @@ Tenga en cuenta que debido al hecho de que el ESP siempre tiene otras actividade
 
 # Esquema EspSoftwareSerial pines… [![i2circuit Status](https://travis-ci.org/esp8266/arduino-esp8266fs-plugin.svg?branch=master)](https://i2circuit.com)
 
+SoftwareSerial EspSerial(14, 12, false, 256); // RX – TX
 
 ![Screenshot]( 20170722_173520-1.jpg)
 
